@@ -6,8 +6,16 @@ name = "pypi"
 [packages]
 icrawler = "*"
 opencv-python-headless = "*"
-imagehash = "*"
 python-dotenv = "*"
+matplotlib = "*"
+opencv-python = "*"
+rembg = "*"
+onnxruntime = "*"
+ddgs = "*"
+pillow = "*"
+requests = "*"
+imagehash = "*"
+openai = "*"
 
 [dev-packages]
 
